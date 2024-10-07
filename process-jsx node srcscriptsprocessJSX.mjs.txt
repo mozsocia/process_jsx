@@ -1,0 +1,1 @@
+    "process-jsx": "node src/scripts/processJSX.mjs"
